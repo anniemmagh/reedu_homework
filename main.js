@@ -13,6 +13,17 @@
 // 2. დაწერეთ ფუნქცია რომელიც დააბრუნებს ყველა ციფრის ჯამს
 // 1 დან 100 მდე
 
+// function sumNumbers() {
+//     let summarize = 0;
+//     for (let i = 1; i <= 100; i++) {
+//         summarize += i;
+//     }
+//     return summarize;
+//   }
+//   const result = sumNumbers();
+//   console.log(result); 
+  
+
 // 3. დაწერეთ ფუნქცია რომელსაც გადასცემთ ციფრს, ფუნქციამ უნდა
 // დააბრუნოს ეს ციფრი კენტია თუ ლუწი
 
